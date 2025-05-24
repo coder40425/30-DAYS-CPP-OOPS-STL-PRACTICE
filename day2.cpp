@@ -1,8 +1,8 @@
-/* Day 2: Student Class with Average Calculator (OOPs - Constructor, Member Functions)
+/*Day 2: Student Class with Average Calculator (OOPs - Constructor, Member Functions)
 Create a class Student with marks in 3 subjects as private data. Use a constructor to initialize them.
 Write a member function to calculate and print the average marks.
 *Output Example:*
-Average Marks: 85.33      */
+Average Marks: 85.33  */
 
 #include<iostream>
 #include<iomanip>     // for set precision
