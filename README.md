@@ -78,6 +78,10 @@ Day	Problem Description	Focus Area
 DAY 1- OOPs - class, access specifiers.
 DAY 2- OOPs - constructor, member functions.
 DAY 3- Templates, OOPs.
+DAY 4-
+DAY 5-
+DAY 6-
+DAY 7-
 
 ---
 
