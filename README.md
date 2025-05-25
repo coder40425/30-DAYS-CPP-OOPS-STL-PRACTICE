@@ -1,6 +1,7 @@
 # 30-DAYS-CPP-OOPS-STL-PRACTICE
 
 Hi, I'm Yash Kumar Singh, a 2nd-year Chemical Engineering undergrad from NIT Durgapur (2024–2028).
+
 Welcome to the 30-Day C++ OOPs + STL Ladder — a structured problem set designed to help you deeply understand the core concepts of Object-Oriented Programming (OOPs) and Standard Template Library (STL) in C++. This ladder progresses from easy to medium to conceptually strong problems to ensure steady growth.
 
 
