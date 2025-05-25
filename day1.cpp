@@ -26,3 +26,10 @@ class Person{
         cout<<"Age: "<<age<<endl;
      }
 };
+
+int main(){
+     Person p;
+     p.setdata();
+     p.getdata();
+     return 0;
+}
