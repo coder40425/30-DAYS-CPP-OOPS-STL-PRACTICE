@@ -69,18 +69,22 @@ Day	Problem Description	Focus Area
 30	Parking lot system	OOP + STL Integration
 
 
-(View full ladder in the repo or PDF for detailed breakdown)
+(View full ladder in the repo for detailed breakdown)
 
 
 ---
 
 📈 Progress Report
 
+Completed (4/30) days✅  
+
 DAY 1- OOPs - class, access specifiers.
 
 DAY 2- OOPs - constructor, member functions.
 
 DAY 3- Templates, OOPs.
+
+DAY 4- STL- pair, vector, sort.
 
 
 ---
