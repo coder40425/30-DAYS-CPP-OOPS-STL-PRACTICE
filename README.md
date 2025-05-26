@@ -88,6 +88,8 @@ DAY 3- Templates, OOPs.
 
 DAY 4- STL- pair, vector, sort.
 
+DAY 5- Static data members, Encapsulation.
+
 
 ---
 
