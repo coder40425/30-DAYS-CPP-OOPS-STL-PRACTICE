@@ -71,7 +71,7 @@ Day	Problem Description	Focus Area
 30	Parking lot system	OOP + STL Integration
 
 
-(View full ladder in the repo for detailed breakdown)
+(View full ladder file in the repo for detailed breakdown)
 
 
 ---
