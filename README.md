@@ -78,7 +78,7 @@ Day	Problem Description	Focus Area
 
 📈 Progress Report
 
-Completed (5/30) days✅  
+Completed (6/30) days✅  
 
 DAY 1- OOPs - class, access specifiers.
 
@@ -89,6 +89,8 @@ DAY 3- Templates, OOPs.
 DAY 4- STL- pair, vector, sort.
 
 DAY 5- Static data members, Encapsulation.
+
+DAY 6- OOPs - Object Management
 
 
 ---
