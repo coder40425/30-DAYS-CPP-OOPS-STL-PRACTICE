@@ -63,9 +63,13 @@ Unordered map and custom hash functions
 Day	Problem Description	Focus Area
 
 1	Class with attributes	OOPs - Class, Access
+
 2	Student class with average	Constructor, Methods
+
 3	Template pair class	Templates
+
 4	Sorting pairs with comparator	STL - vector, pair
+
 5	Static members in Bank class	Static, Encapsulation
 ...	...	...
 30	Parking lot system	OOP + STL Integration
