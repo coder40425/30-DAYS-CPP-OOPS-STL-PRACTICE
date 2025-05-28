@@ -116,11 +116,10 @@ IDE/Text Editor (e.g., VSCode, Code::Blocks)
 
 📚 Resources
 
-GeeksforGeeks C++ OOP
 
 cplusplus.com STL Reference
 
-codewithharry.com Basic qsts
+codewithharry.com OOPs + STL Basics
 
 
 
