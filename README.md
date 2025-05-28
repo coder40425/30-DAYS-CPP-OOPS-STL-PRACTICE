@@ -72,6 +72,7 @@ Day	Problem Description	Focus Area
 
 
 (View full ladder file in the repo for detailed breakdown)
+C++_OOPs_STL_30_Day_Full_Ladder.pdf
 
 
 ---
