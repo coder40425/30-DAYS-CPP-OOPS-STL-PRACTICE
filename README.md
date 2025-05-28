@@ -71,8 +71,8 @@ Day	Problem Description	Focus Area
 30	Parking lot system	OOP + STL Integration
 
 
-(View full ladder file in the repo for detailed breakdown)
-C++_OOPs_STL_30_Day_Full_Ladder.pdf
+#View full ladder file (C++_OOPs_STL_30_Day_Full_Ladder.pdf) in the repo for detailed breakdown.
+
 
 
 ---
