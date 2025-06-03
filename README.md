@@ -83,22 +83,67 @@ Day	Problem Description	Focus Area
 
 📈 Progress Report
 
-Completed (7/30) days✅  
+Completed (9/30) days✅  
 
-DAY 1- OOPs - class, access specifiers.
+DAY 1 – Create Class and Print Attributes
 
-DAY 2- OOPs - constructor, member functions.
+DAY 2 – Student Class with Average Calculator
 
-DAY 3- Templates, OOPs.
+DAY 3 – Implement a Pair Class Template
 
-DAY 4- STL- pair, vector, sort.
+DAY 4 – Custom Comparator for Sorting Pairs
 
-DAY 5- Static data members, Encapsulation.
+DAY 5 – Bank Account Class with Static Members
 
-DAY 6- OOPs - Object Management
+DAY 6 – Library System - Issue & Return Book
 
-DAY 7- OOPs - Class + vector<string>
+DAY 7 – Build a Mini Contact Manager
 
+DAY 8 – Sort Students by Marks using Vector of Objects
+
+DAY 9 – Basic Vector Operations
+
+DAY 10 – Word Frequency Counter
+
+DAY 11 – Implement Stack using STL
+
+DAY 12 – Vehicle Inheritance Hierarchy
+
+DAY 13 – Shape Class with Area Calculation
+
+DAY 14 – Bank Account - Savings & Current
+
+DAY 15 – Protected Data in Inheritance
+
+DAY 16 – Task Scheduler with Priority Queue
+
+DAY 17 – Remove Duplicates using Set
+
+DAY 18 – Deque Operations - Palindrome Checker
+
+DAY 19 – Custom String Class with Operator Overloading
+
+DAY 20 – Queue using Two Stacks
+
+DAY 21 – Movie Booking System Design
+
+DAY 22 – Group Anagrams
+
+DAY 23 – Implement a Vector Template
+
+DAY 24 – Logger System Design
+
+DAY 25 – Abstract Base Class: Animal Sounds
+
+DAY 26 – Online Shopping Cart Design
+
+DAY 27 – Mini File System
+
+DAY 28 – Custom Hash Function in Unordered Map
+
+DAY 29 – LRU Cache using List and Map
+
+DAY 30 – Parking Lot System
 
 ---
 
