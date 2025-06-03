@@ -17,7 +17,7 @@ public:
     string name;
     int marks;
 
-    Student(string n, int m) : name(n), marks(m) {}
+    Student(string n, int m) : name(n), marks(m) {}        //Constructor- (to allow easy and readable creation of Student objects directly with name and marks values & to avoid manual assignment)
 
     // Static comparator
     static bool compare(Student &a, Student &b) {
@@ -32,7 +32,7 @@ int main() {
         Student("Alice", 95)
     };
 
-    sort(students.begin(), students.end(), Student::compare);
+    sort(students.begin(), students.end(), Student::compare);    //compare is a static class function
 
     for (auto &s : students) {
         cout << s.name << ": " << s.marks << endl;
