@@ -58,30 +58,8 @@ Unordered map and custom hash functions
 
 ---
 
-📅 30-Day Plan
 
-Day	Problem Description	Focus Area
-
-1	Class with attributes	OOPs - Class, Access
-
-2	Student class with average	Constructor, Methods
-
-3	Template pair class	Templates
-
-4	Sorting pairs with comparator	STL - vector, pair
-
-5	Static members in Bank class	Static, Encapsulation
-...	...	...
-30	Parking lot system	OOP + STL Integration
-
-
-#View full ladder file (30_Days_Full_Ladder.pdf) in the repo for detailed breakdown.
-
-
-
----
-
-📈 Progress Report
+📅 30-Day Plan & 📈 Progress Report
 
 Completed (9/30) days✅  
 
@@ -144,6 +122,11 @@ DAY 28 – Custom Hash Function in Unordered Map
 DAY 29 – LRU Cache using List and Map
 
 DAY 30 – Parking Lot System
+
+
+   #View full ladder file (30_Days_Full_Ladder.pdf) in the repo for detailed breakdown.
+
+
 
 ---
 
