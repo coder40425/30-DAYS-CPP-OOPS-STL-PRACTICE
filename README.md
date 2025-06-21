@@ -1,6 +1,6 @@
 # 30-DAYS-CPP-OOPS-STL-PRACTICE
 
-Hi, I'm Yash Kumar Singh, a 2nd-year Chemical Engineering undergrad from NIT Durgapur (2024–2028).
+Hi, I'm **Yash Kumar Singh**, a 2nd-year Chemical Engineering undergrad from **NIT Durgapur (2024–2028)**.
 
 Welcome to the 30-Day C++ OOPs + STL Ladder — a structured problem set designed to help you deeply understand the core concepts of Object-Oriented Programming (OOPs) and Standard Template Library (STL) in C++. This ladder progresses from easy to medium to conceptually strong problems to ensure steady growth.
 
@@ -23,7 +23,7 @@ Build confidence for interviews and problem-solving scenarios.
 
 📌 Topics Covered
 
-OOPs Concepts
+**OOPs Concepts**
 
 Classes & Objects
 
@@ -46,7 +46,7 @@ Templates (Generic Programming)
 Composition & Encapsulation
 
 
-STL Components
+**STL Components**
 
 vector, pair, map, set, stack, queue, priority_queue, deque, list
 
@@ -61,7 +61,7 @@ Unordered map and custom hash functions
 
 📅 30-Day Plan & 📈 Progress Report
 
-Completed (24/30) days✅  
+**Completed (24/30) days✅**  
 
 DAY 1 – Create Class and Print Attributes
 
@@ -124,7 +124,7 @@ DAY 29 – LRU Cache using List and Map
 DAY 30 – Parking Lot System
 
 
-   #View full ladder file (30_Days_Full_Ladder.pdf) in the repo for detailed breakdown.
+   **#View full ladder file (30_Days_Full_Ladder.pdf) in the repo for detailed breakdown.**
 
 
 
