@@ -40,13 +40,10 @@ class Circle: public Shape{         //DERIVED CLASS CIRCLE (INHERITS FROM SHAPE)
  };
 
 int main(){
-    Shape*shape1=new Circle(5);        //CREATES POINTERS OF BASE CLASS TYPE (SHAPE*), BUT ASSIGNS THEM TO DERIVED OBJECTS (CIRCLE & SQUARE)
-    Shape*shape2=new Square(5);
-    shape1->area();                 //CALLS THE CORRECT AREA() METHOD DEPENDING ON THE OBJECT TYPE
-    shape2->area();
-
-    delete shape1;       //DELETES DYNAMICALLY ALLOCATED OBJECTS TO PREVENT MEMORY LEAK
-    delete shape2;
+    Circle c1(5); 
+    Square s1(5);
+    c1.area(); 
+    s1.area();
 
     return 0;
 }
