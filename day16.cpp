@@ -10,6 +10,7 @@ Task1 (Priority 3)                      */
 #include<iostream>
 #include<queue>    // for priority_queue
 #include<vector>   // for vector
+#include<string>
 using namespace std;
 
 int main() {
