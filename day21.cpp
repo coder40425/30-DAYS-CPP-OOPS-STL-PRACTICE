@@ -5,9 +5,6 @@ Design classes: Movie, Show, Booking. Create and book a show.
 *Output Example:*
 Booked Show: Avengers at 7PM                    */
 
-#include<iostream>
-using namespace std;
-
 #include <iostream>
 #include <string>
 using namespace std;
